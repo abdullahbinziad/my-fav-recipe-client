@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "name": "chef-recipe-hunter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start-server": "nodemon index.js"
+  },
+  "keywords": ["my fav recipe","special"],
+  "author": "",
+  "license": "ISC",
+  "description": "My Fav Recipe website Server"
+}

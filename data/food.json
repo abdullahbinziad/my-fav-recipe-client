@@ -1,0 +1,54 @@
+[
+    
+        {"_id":"612f82dc843255001c57982f",
+          "name": "Pizza Margherita",
+          "ingredients": ["Dough", "Tomato sauce", "Mozzarella cheese", "Fresh basil leaves", "Olive oil"],
+          "cookingMethod": "Bake in a preheated oven at 220°C for 12-15 minutes",
+          "rating": 4.5,
+          "price": 10.99,
+          "image": "https://res.cloudinary.com/dkegwuqcf/image/upload/v1683206804/220428140436-04-classic-american-hamburgers_3_gahilb.png"
+        },
+        
+        {"_id":"612f82dc843255001c579831",
+          "name": "Chicken Tikka Masala",
+          "ingredients": ["Chicken", "Yogurt", "Tomato sauce", "Ginger", "Garam masala"],
+          "cookingMethod": "Marinate chicken, grill, and simmer in tomato-based sauce",
+          "rating": 4.7,
+          "price": 14.99,
+          "image": "https://res.cloudinary.com/dkegwuqcf/image/upload/v1683206470/220428140436-04-classic-american-hamburgers_lgsbof.png"
+        },
+      
+       
+        {"_id":"612f82dc843255001c579833",
+          "name": "Sushi Roll",
+          "ingredients": ["Rice", "Nori", "Fish or vegetables", "Soy sauce", "Wasabi"],
+          "cookingMethod": "Prepare sushi rice, wrap in nori with desired fillings, slice into rolls",
+          "rating": 4.9,
+          "price": 16.99,
+          "image": "https://res.cloudinary.com/dkegwuqcf/image/upload/v1683206675/220428140436-04-classic-american-hamburgers_2_wfcigo.png"
+        },
+        {"_id":"612f82dc843255001c579834",
+          "name": "Chocolate Cake",
+          "ingredients": ["Flour", "Sugar", "Cocoa powder", "Eggs", "Butter"],
+          "cookingMethod": "Mix ingredients, bake in a cake pan, and frost with chocolate icing",
+          "rating": 4.6,
+          "price": 9.99,
+          "image": "https://res.cloudinary.com/dkegwuqcf/image/upload/v1683206642/220428140436-04-classic-american-hamburgers_1_ahxx28.png"
+        },
+        {"_id":"612f82dc8432550sa01c579831",
+        "name": "Chicken Tikka Masala",
+        "ingredients": ["Chicken", "Yogurt", "Tomato sauce", "Ginger", "Garam masala"],
+        "cookingMethod": "Marinate chicken, grill, and simmer in tomato-based sauce",
+        "rating": 4.7,
+        "price": 14.99,
+        "image": "https://res.cloudinary.com/dkegwuqcf/image/upload/v1683206470/220428140436-04-classic-american-hamburgers_lgsbof.png"
+      },
+        {"_id":"612f82dc843255001c579835",
+          "name": "Hamburger",
+          "ingredients": ["Beef patty", "Bun", "Lettuce", "Tomato", "Cheese"],
+          "cookingMethod": "Grill or fry the patty, assemble with toppings in a bun",
+          "rating": 4.4,
+          "price": 11.99,
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/220428140436-04-classic-american-hamburgers.jpg?c=original"
+        }
+]
